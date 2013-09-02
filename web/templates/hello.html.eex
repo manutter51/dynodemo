@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title><%= @title %></title>
+  <link rel="shortcut icon" href="/static/favicon.ico" />
+</head>
+<body>
+  <h3>Hello, <%= @friend %>, welcome to Dynamo!</h3>
+  <p>(Only slightly adapted from the original template.)</p>
+</body>
+</html>
